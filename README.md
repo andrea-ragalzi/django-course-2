@@ -2,7 +2,7 @@
 second project of pymyke00 course
 
 ## Practical test description
-- Play a part of an application for managing the database of a library.
+- Play a part of an application for managing the database of a library
 - There are three entities: book, author and genre
 - Genre attributes: name
 - Author attributes: first name, last name and country
